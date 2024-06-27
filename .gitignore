@@ -1,0 +1,5 @@
+# node modules
+node_modules/
+
+# macOS 디렉토리 정보 파일
+.DS_Store
